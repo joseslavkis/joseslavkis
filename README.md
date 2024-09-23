@@ -23,6 +23,6 @@ I am software developer experienced in multiples programming languages
 ### Currently learning:
 
 - **Java**: For developing small-scale games.
-- **Operating Systems**: Understanding computer mechanisms related to the xv6 kernel environment.
+- **Operating Systems**: Understanding and developing computer mechanisms related to the xv6 kernel environment.
 - **Algorithm design**: Focusing on design techniques such as dynamic programming, divide and conquer, backtracking, and greedy algorithms.
 
