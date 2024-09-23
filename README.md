@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software engineer student at University of Buenos Aires.
 
-Soy un desarrollador de software con experiencia en múltiples lenguajes de programación y tecnologías. Me encanta resolver problemas complejos, participar en proyectos desafiantes y aprender algo nuevo todos los días.
+I am software developer experienced in multiples programming languages
 
 ### 🔧 Lenguajes y Herramientas:
 
