@@ -1,4 +1,4 @@
-# José Slavkis
+# José Uriel Slavkis
 
 ### 👨‍💻 Software engineer student at University of Buenos Aires.
 
