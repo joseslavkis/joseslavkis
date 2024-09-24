@@ -16,7 +16,7 @@ I am software developer experienced in multiples programming languages
 
 ### 📊 Mis lenguajes más usados:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseslavkis&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseslavkis&layout=compact&theme=radical&langs_count=8) 
 
 ---
 
