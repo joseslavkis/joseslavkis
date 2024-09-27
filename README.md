@@ -1,6 +1,6 @@
 # José Uriel Slavkis
 
-### 👨‍💻 Software engineer student at University of Buenos Aires.
+### 👨‍💻 Software engineer student at UBA (University of Buenos Aires).
 
 I am software developer experienced in multiples programming languages
 
