@@ -37,4 +37,4 @@ I am a software developer with experience in multiple programming languages, cur
 
 - **Java**: For developing small-scale games.
 - **Operating Systems**: Understanding and developing mechanisms related to operating systems.
-- **Algorithm Design**: Focusing on techniques such as dynamic programming, divide and conquer, backtracking, and greedy algorithms.
+- **Algorithm Design**: Focusing on techniques such as dynamic and linear programming, divide and conquer, backtracking, greedy algorithms.
