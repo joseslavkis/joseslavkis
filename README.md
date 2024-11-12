@@ -37,5 +37,5 @@ I am a software developer with experience in multiple programming languages, cur
 
 - **Java**: For developing small-scale games.
 - **Clojure**: To explore the potential of functional programming.
-- **Operating Systems**: Understanding and developing mechanisms related to operating systems.
-- **Algorithm Design**: Focusing on techniques such as dynamic and linear programming, divide and conquer, backtracking and greedy algorithms.
+- **Operating Systems**: Understanding and developing mechanisms related to operating systems, such as virtualization, concurrency and persistence.
+- **Algorithm Design**: Focusing on techniques such as dynamic programming, linear programming, divide and conquer, backtracking, greedy algorithms, and flow networks.
