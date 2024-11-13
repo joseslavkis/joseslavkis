@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineering Student at UBA (University of Buenos Aires)
 
-I am a software developer with experience in multiple programming languages, currently deepening my knowledge in systems and algorithm design.
+I am a software developer with experience in multiple programming languages, currently deepening my knowledge in operating systems, algorithm design and developing projects.
 
 ---
 
