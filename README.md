@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="https://github.com/joseslavkis/joseslavkis/blob/output/github-contribution-grid-snake.svg" />
-</p>
+![🚀 Cool Animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 # José Uriel Slavkis
 
 ### 👨‍💻 Software Engineering Student at UBA (University of Buenos Aires)
