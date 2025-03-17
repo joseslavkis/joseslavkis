@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="100%" height="150px">
+  <img src="https://github.com/joseslavkis/joseslavkis/blob/output/github-contribution-grid-snake.svg" />
 </p>
 # José Uriel Slavkis
 
