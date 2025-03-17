@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800px">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="100%" height="150px">
 </p>
-
 # José Uriel Slavkis
 
 ### 👨‍💻 Software Engineering Student at UBA (University of Buenos Aires)
