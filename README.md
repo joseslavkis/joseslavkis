@@ -1,8 +1,8 @@
-# José Uriel Slavkis 
+# 🚀 José Uriel Slavkis 
+#### *Estudiante de Ingeniería en Sistemas - Universidad de Buenos Aires*
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" style="margin-top: 20px;">
 
-### 👨‍💻 Software Engineering Student at UBA (University of Buenos Aires)
 
 I am a software developer with experience in multiple programming languages, currently deepening my knowledge in data bases and medium-scale projects.
 
