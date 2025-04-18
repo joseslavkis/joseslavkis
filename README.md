@@ -43,6 +43,5 @@ Passionate developer with multi-language expertise specializing in system archit
 - 🦀 **Rust**: Building memory-safe systems
 - 🧩 **Design Patterns**: Crafting maintainable architectures
 - 🗃 **Database Systems**: From SQL to NoSQL paradigms
-- ☁️ **Cloud Native**: Containerization & orchestration
 
 ---
