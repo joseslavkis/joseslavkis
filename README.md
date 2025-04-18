@@ -1,4 +1,6 @@
-# José Uriel Slavkis <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150">
+# José Uriel Slavkis 
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180">
 
 ### 👨‍💻 Software Engineering Student at UBA (University of Buenos Aires)
 
