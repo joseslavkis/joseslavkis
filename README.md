@@ -1,42 +1,62 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280">
   <h1>🚀 José Uriel Slavkis</h1>
-  <h3>💻 Estudiante de Ingeniería en Sistemas - Universidad de Buenos Aires</h3>
+  <h3>💻 Software Engineering Student | University of Buenos Aires</h3>
 </div>
 
-I am a software developer with experience in multiple programming languages, currently deepening my knowledge in data bases and medium-scale projects.
+---
+
+### 👨‍💻 **About Me**
+Passionate developer with multi-language expertise specializing in system architecture and database design. Currently exploring scalable solutions and performance optimization.
 
 ---
 
-### 🔧 Programming Languages:
+### 🛠 **Technical Arsenal**
 
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center">
 
----
+**Core Languages**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠️ Used Tools:
+**Dev Ecosystem**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![Goland](https://img.shields.io/badge/GoLand-%23000000.svg?style=for-the-badge&logo=goland&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Most Used Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseslavkis&layout=compact&theme=radical&langs_count=8) 
+</div>
 
 ---
 
-### 🌱 Currently Learning:
+### 📊 **GitHub Insights**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseslavkis&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseslavkis&layout=compact&theme=radical&hide_border=true" width="45%">
+</div>
 
-- **Rust**: For developing Medium-scale projects.
-- **Design Patterns**: To explore the potential of developing API's.
-- **Data Bases**
+---
+
+### 🌱 **Knowledge Frontier**
+- 🦀 **Rust**: Building memory-safe systems
+- 🧩 **Design Patterns**: Crafting maintainable architectures
+- 🗃 **Database Systems**: From SQL to NoSQL paradigms
+- ☁️ **Cloud Native**: Containerization & orchestration
+
+---
+
+### 📫 **Connect With Me**
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=joseslavkis&label=Profile+Views&color=blueviolet" alt="Visitor counter">
+</p>
