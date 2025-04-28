@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="670">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650">
   <h1>🚀 José Uriel Slavkis</h1>
   <h3>💻 Software Engineering Student | University of Buenos Aires</h3>
 </div>
