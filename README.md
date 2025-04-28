@@ -30,19 +30,25 @@ Passionate developer with multi-language expertise specializing in system archit
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 </div>
----
 
-### 📊 **GitHub Insights**
+### 📊 **GitHub Analytics**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseslavkis&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseslavkis&layout=compact&theme=radical&hide_border=true" width="45%">
+  <!-- Estadísticas principales con diseño mejorado -->
+  <img src="https://github-readme-stats.vercel.app/api?username=joseslavkis&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24" width="48%">
+  
+  <!-- Lenguajes más usados con porcentajes -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseslavkis&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss" width="45%">
 </div>
 
----
+<div align="center">
+  <!-- Streak stats -->
+  <img src="https://streak-stats.demolab.com?user=joseslavkis&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%">
+  
+  <!-- Gráfico de actividad -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseslavkis&theme=redical&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="48%">
+</div>
 
 ### 🌱 **Knowledge Frontier**
 - 🦀 **Rust**: Building memory-safe systems
 - 🧩 **Design Patterns**: Crafting maintainable architectures
 - 🗃 **Database Systems**: From SQL to NoSQL paradigms
-
----
