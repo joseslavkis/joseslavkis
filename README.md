@@ -35,13 +35,11 @@ Passionate developer with multi-language expertise. Currently exploring scalable
 
 ### 📊 **GitHub Analytics**
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- Fila 1: Stats y Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api?username=joseslavkis&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseslavkis&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss" width="48%">
-  
-  <!-- Fila 2: Streak y Activity Graph -->
+
   <img src="https://streak-stats.demolab.com?user=joseslavkis&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseslavkis&theme=redical&hide_border=true&area=true&height=400&custom_title=My%20Contribution%20Graph" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseslavkis&theme=redical&hide_border=true&area=true&height=475&custom_title=My%20Contribution%20Graph" width="48%">
 </div>
 
 ---
