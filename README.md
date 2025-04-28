@@ -41,7 +41,7 @@ Passionate developer with multi-language expertise. Currently exploring scalable
   
   <!-- Fila 2: Streak y Activity Graph -->
   <img src="https://streak-stats.demolab.com?user=joseslavkis&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseslavkis&theme=redical&hide_border=true&area=true&height=300&custom_title=My%20Contribution%20Graph" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseslavkis&theme=redical&hide_border=true&area=true&height=400&custom_title=My%20Contribution%20Graph" width="48%">
 </div>
 
 ---
