@@ -33,12 +33,14 @@ $ cat about_jose.txt
 
 <table align="center">
   <tr>
+    <!-- Go (estático, URL corregida a Devicon) -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="65" height="65">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="65" height="65">
       <br>Go
     </td>
+    <!-- C (estático, solo "C") -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="65" height="65">
       <br>C
     </td>
     <td align="center" width="96">
@@ -48,9 +50,9 @@ $ cat about_jose.txt
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
       <br>Python
-    </td>
+    <!-- Rust (estático, CDN jsDelivr) -->
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="65" height="65">
+      <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-512x512.png" alt="Rust" width="65" height="65">
       <br>Rust
     </td>
   </tr>
@@ -63,38 +65,35 @@ $ cat about_jose.txt
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65">
       <br>Git
     </td>
+    <!-- PostgreSQL (estático) -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="65" height="65">
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65">
-      <br>AWS
+  <td align="center" width="96">
+      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg" alt="JetBrains" width="65" height="65">
+      <br>JetBrains
     </td>
+    <!-- Linux (estático) -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65">
       <br>Linux
     </td>
   </tr>
 </table>
 
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseslavkis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=42" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseslavkis&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseslavkis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" width="58%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseslavkis&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+</div><div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseslavkis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" width="40%" alt="Top Languages"/>
   <img src="https://github-profile-trophy.vercel.app/?username=joseslavkis&theme=tokyonight&no-frame=true&column=3&row=2" width="38%" alt="GitHub Trophies"/>
+</div><div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseslavkis&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="80%" alt="Activity Graph"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joseslavkis&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
-
----
 
 ## 🌱 Current Focus
 
@@ -108,7 +107,8 @@ mindmap
     Design Patterns
       Architectural Patterns
       SOLID Principles
-      Enterprise Patterns
+      Design Patterns
+      Agile Methodologies
     Database Systems
       SQL Optimization
       NoSQL Solutions
@@ -127,9 +127,4 @@ mindmap
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="right">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg" alt="Made with love">
-  <em>Last updated: June 2025</em>
 </div>
