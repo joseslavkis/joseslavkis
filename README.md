@@ -10,7 +10,7 @@
   ### 💻 Software Engineering Student | University of Buenos Aires
   
   <p>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:joseslavkis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
     <img src="https://komarev.com/ghpvc/?username=joseslavkis&style=flat-square&color=blueviolet" alt="Profile views">
   </p>
 </div>
