@@ -99,7 +99,7 @@ $ cat about_jose.txt
 
 ```mermaid
 mindmap
-  root((Learning Path))
+  root((Currently learning))
     Rust
       Memory Safety
       Concurrency
