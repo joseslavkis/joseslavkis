@@ -107,7 +107,6 @@ mindmap
     Design Patterns
       Architectural Patterns
       SOLID Principles
-      Design Patterns
       Agile Methodologies
     Database Systems
       SQL Optimization
